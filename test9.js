@@ -1,7 +1,7 @@
 // question 1 a function that has a delay of two seconds
 
 function havi(delays){
-    setTimeout(delays, 5000)
+    setTimeout(delays, 2000)
 };
 
  function delays(){
